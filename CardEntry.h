@@ -2,6 +2,7 @@
 #define DECKBOX_CARD_ENTRY
 #include <string>
 #include <iosfwd>
+#include <stdint.h>
 
 namespace deckbox
 {
